@@ -14,6 +14,8 @@ const common_1 = require("@nestjs/common");
 const DISPATCHER = [
     { name: 'Sandra Hammerich' },
     { name: 'Jan Diekjobst' },
+    { name: 'Thomas Grünau' },
+    { name: 'Birgit Bahr' },
 ];
 let DispatcherController = class DispatcherController {
     listAll() {
